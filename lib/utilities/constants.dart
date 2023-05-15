@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+const String kApiKey = 'bcd5d3714b7ae41e0a5d5efbc5c21922';
+
 const kTempTextStyle = TextStyle(
   fontFamily: 'Spartan MB',
   fontSize: 100.0,
@@ -7,7 +9,7 @@ const kTempTextStyle = TextStyle(
 
 const kMessageTextStyle = TextStyle(
   fontFamily: 'Spartan MB',
-  fontSize: 60.0,
+  fontSize: 50.0,
 );
 
 const kButtonTextStyle = TextStyle(
